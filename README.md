@@ -1,2 +1,2 @@
-# my-first-repo
+#repo-exercise
 Practice for Git
